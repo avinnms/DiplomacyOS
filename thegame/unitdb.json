@@ -1,0 +1,25 @@
+{
+    "Unit_1": {"power": "England", "unit_type": "Army", "location_id": "Lvp" },
+    "Unit_2": {"power": "England", "unit_type": "Fleet", "location_id": "Lon"},
+    "Unit_3": {"power": "England", "unit_type": "Fleet", "location_id": "Edi"},
+    "Unit_4": {"power": "France", "unit_type": "Army", "location_id": "Par"},
+    "Unit_5": {"power": "France", "unit_type": "Fleet", "location_id": "Bre"},
+    "Unit_6": {"power": "France", "unit_type": "Army", "location_id": "Mar"},
+    "Unit_7": {"power": "Italy", "unit_type": "Army", "location_id": "Rom"},
+    "Unit_8": {"power": "Italy", "unit_type": "Army", "location_id": "Ven"},
+    "Unit_9": {"power": "Italy", "unit_type": "Fleet", "location_id": "Nap"},
+    "Unit_10": {"power": "Germany", "unit_type": "Army", "location_id": "Ber"},
+    "Unit_11": {"power": "Germany", "unit_type": "Army", "location_id": "Mun"},
+    "Unit_12": {"power": "Germany", "unit_type": "Fleet", "location_id": "Kie"},
+    "Unit_13": {"power": "Austria-Hungary", "unit_type": "Army", "location_id": "Vie"},
+    "Unit_14": {"power": "Austria-Hungary", "unit_type": "Army", "location_id": "Bud"},
+    "Unit_15": {"power": "Austria-Hungary", "unit_type": "Fleet", "location_id": "Tri"},
+    "Unit_16": {"power": "Turkey", "unit_type": "Army", "location_id": "Con"},
+    "Unit_17": {"power": "Turkey", "unit_type": "Army", "location_id": "Smy"},
+    "Unit_18": {"power": "Turkey", "unit_type": "Fleet", "location_id": "Ank"},
+    "Unit_19": {"power": "Russia", "unit_type": "Army", "location_id": "Mos"},
+    "Unit_20": {"power": "Russia", "unit_type": "Army", "location_id": "War"},
+    "Unit_21": {"power": "Russia", "unit_type": "Fleet", "location_id": "Stp"},
+    "Unit_22": {"power": "Russia", "unit_type": "Fleet", "location_id": "Sev"}
+    
+}

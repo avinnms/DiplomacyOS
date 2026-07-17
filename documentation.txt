@@ -1,0 +1,82 @@
+open source diplomacy 
+
+rules of the game, copied pasted from https://officialgamerules.org/game-rules/diplomacy/:
+
+Diplomacy Rules: Complete Guide for Players
+Players and Nations Diplomacy is designed for seven players, but it can be played with as few as two. Each participant controls one of the major European powers from the era just before World War I: England, Germany, Russia, Turkey, Austria-Hungary, Italy, or France. Every nation operates independently. At the start of the game, players randomly determine which country they will control. This is the only element of chance in Diplomacy.
+
+Objective of the Game
+The goal of Diplomacy is to gain control of 18 supply centers. Once a player achieves this, they are declared the winner for having effectively taken control of Europe. Players may also agree to end the game early and declare a draw among all players who still have pieces on the board.
+
+Shortened Game Option
+If players wish to limit game time, they can agree beforehand to end the game at a specific point. When the game stops, the player with the most units on the board can be declared the winner by agreement.
+
+Diplomacy Phase
+Before each round of movement, players enter a diplomacy phase:
+
+The first phase lasts 30 minutes; subsequent phases last 15 minutes.
+Players may form alliances, share or conceal information, bluff, or make public or private declarations.
+Discussions typically happen in private groups. Eavesdropping and deception are allowed.
+No agreements are binding—players can break promises without penalty. Trust and betrayal are part of the gameplay.
+Supply Centers and Economics There are 34 supply centers marked on the map with dots. A nation may only have as many units (armies or fleets) as it controls supply centers. The maximum number of units on the board is 34. Supply centers dictate military strength and unit count.
+
+Board and Game Pieces
+The board represents Europe, divided into provinces and bodies of water. Each area is considered a “space.”
+Armies are shown as square markers and fleets as long rectangles.
+Each Great Power has 8 army and 8 fleet tokens (112 markers total).
+Players can use eliminated players’ tokens if they run out.
+Starting Positions
+Each country begins with specific units:
+
+England (Blue): F London, F Edinburgh, A Liverpool
+Germany (Black): A Berlin, A Munich, F Kiel
+Russia (White): A Moscow, A Warsaw, F St. Petersburg (South Coast), F Sevastopol
+Turkey (Yellow): A Constantinople, A Smyrna, F Ankara
+Austria-Hungary (Red): A Vienna, A Budapest, F Trieste
+Italy (Green): A Rome, A Venice, F Naples
+France (Light Blue): A Paris, A Marseilles, F Brest Twelve supply centers start unoccupied.
+Order Writing and Movement Rules
+Only one unit can occupy a space at a time.
+Units can either move, hold, support, or convoy (fleets only).
+Armies move to adjacent provinces. Fleets move to adjacent seas or coastal provinces.
+Fleets in coastal provinces may only move along coastlines they are adjacent to.
+Illegal orders result in a unit holding its position.
+All orders are written in secret and revealed simultaneously.
+Special Movement Rules
+Provinces like Kiel and Constantinople allow units to move through water and land.
+Coastal provinces with two distinct coasts (like Spain or Bulgaria) require players to specify which coast a fleet is entering.
+Support orders must be explicit and are limited by the geography a unit could legally reach.
+Handling Conflicts
+If two units attempt to move to the same space, both fail—this is called a stand-off.
+Units can support other units to increase their strength.
+A unit may not dislodge its own allied unit, but it can help stand off opposing moves.
+Dislodged units must retreat or be disbanded.
+Support Mechanics
+A supporting unit must be adjacent to the space it supports and be able to legally move there.
+Support can be cut by attacks from other units.
+Self-dislodgment is not allowed.
+Retreats
+Dislodged units must retreat to adjacent unoccupied spaces.
+Units cannot retreat to the origin of the attacking unit or to spaces involved in a stand-off.
+If no valid retreat exists, the unit is disbanded.
+Convoy Rules
+Fleets in sea spaces can convoy armies across water.
+Convoys must be clearly written and match the intended movement.
+If a convoying fleet is dislodged, the convoy fails.
+Ambiguous routes do not void convoys unless all are disrupted.
+Gaining and Losing Units
+Supply centers captured during Fall moves affect unit counts.
+After Fall turns, players adjust their units to match their number of controlled supply centers.
+Excess units must be disbanded. New units can only be built in unoccupied home centers.
+Builds and removals are written secretly and revealed at the same time.
+Other Rules and Variants
+A full game may take up to 4 hours. Five minutes is allowed to write moves after each diplomacy phase.
+For 6 players: Italy is removed and holds its positions.
+For 5 or fewer players, countries are combined and controlled by single players.
+In 2-player games, Italy remains neutral and joins a side after a coin toss.
+Players can replace dropouts, or units from abandoned nations hold and are disbanded if dislodged.
+Civil disorder units are disbanded starting with the most distant ones.
+Important Diplomacy Rules Notes
+Fleets in Kiel or Constantinople may not convoy.
+The rule preventing two units from switching places does not apply when more than two swap in rotation.
+Convoyed units can switch places with others if supported correctly.
